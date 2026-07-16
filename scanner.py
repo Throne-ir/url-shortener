@@ -1,3 +1,4 @@
+# Simple Port Scanner by Throne-ir
 import socket
 import sys
 from datetime import datetime
